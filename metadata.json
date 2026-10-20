@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio Virtual: Excitación en la Base y Aislamiento de Vibraciones",
+  "description": "Laboratorio interactivo de vibraciones mecánicas (AED-1067 TecNM) sobre excitación armónica en la base, transmisibilidad, aislamiento y evaluación con constancia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
